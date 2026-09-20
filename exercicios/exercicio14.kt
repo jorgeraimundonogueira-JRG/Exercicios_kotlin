@@ -1,5 +1,5 @@
 fun main() {
-    val numero = 6
+    val numero = 7
     var fatorial = 1
     var contador = numero
 
