@@ -1,4 +1,4 @@
-fun tabuada() {
+fun main() {
     val numero = 8
 
     for (i in 1..10) {
